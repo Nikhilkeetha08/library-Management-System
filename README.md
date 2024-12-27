@@ -8,6 +8,8 @@ A Flask API for managing a library, allowing CRUD operations for books and membe
 - Python 3.x installed
 - MySQL server installed and running
 - Postman (or any other API testing tool)
+
+
 (a) How to run the project.
     1.Install dependencies:
         pip install Flask mysql-connector-python
