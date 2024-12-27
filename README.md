@@ -11,7 +11,9 @@ A Flask API for managing a library, allowing CRUD operations for books and membe
 
 
 (a) How to run the project.
-    1.Install dependencies:
+    
+    
+1.Install dependencies:
         pip install Flask mysql-connector-python
     2.Set up the database:
     3.Set environment variables:
